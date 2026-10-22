@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /checkout
+Disallow: /pass
+Disallow: /access-guide
+Disallow: /trips
+
+Sitemap: https://www.thehydropass.com/sitemap.xml
