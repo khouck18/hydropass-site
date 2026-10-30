@@ -4,5 +4,8 @@ Disallow: /checkout
 Disallow: /pass
 Disallow: /access-guide
 Disallow: /trips
+Disallow: /messages
+Disallow: /conversation
+Disallow: /profile
 
-Sitemap: https://www.thehydropass.com/sitemap.xml
+Sitemap: https://www.hydropass.com/sitemap.xml
