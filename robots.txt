@@ -1,11 +1,21 @@
 User-agent: *
 Allow: /
-Disallow: /checkout
-Disallow: /pass
 Disallow: /access-guide
-Disallow: /trips
-Disallow: /messages
+Disallow: /admin
+Disallow: /checkout
 Disallow: /conversation
+Disallow: /forgot-password
+Disallow: /host
+Disallow: /hosting
+Disallow: /login
+Disallow: /messages
+Disallow: /notifications
+Disallow: /pass
 Disallow: /profile
+Disallow: /reset-password
+Disallow: /saved
+Disallow: /signup
+Disallow: /trips
+Disallow: /unsubscribe
 
-Sitemap: https://www.hydropass.com/sitemap.xml
+Sitemap: https://www.thehydropass.com/sitemap.xml
