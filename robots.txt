@@ -10,7 +10,6 @@ Disallow: /copyright
 Disallow: /forgot-password
 Disallow: /host
 Disallow: /hosting
-Disallow: /list-your-water
 Disallow: /login
 Disallow: /messages
 Disallow: /notifications
