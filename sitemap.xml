@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://www.thehydropass.com/</loc></url>
   <url><loc>https://www.thehydropass.com/accessibility</loc></url>
+  <url><loc>https://www.thehydropass.com/blog</loc></url>
+  <url><loc>https://www.thehydropass.com/blog/river-guides</loc></url>
+  <url><loc>https://www.thehydropass.com/blog/river-guides/nehalem-river</loc></url>
+  <url><loc>https://www.thehydropass.com/blog/river-guides/nestucca-river</loc></url>
+  <url><loc>https://www.thehydropass.com/blog/river-guides/norfork-tailwater</loc></url>
+  <url><loc>https://www.thehydropass.com/blog/river-guides/north-umpqua-river</loc></url>
+  <url><loc>https://www.thehydropass.com/blog/river-guides/san-juan-river</loc></url>
+  <url><loc>https://www.thehydropass.com/blog/river-guides/trask-river</loc></url>
+  <url><loc>https://www.thehydropass.com/blog/river-guides/white-river</loc></url>
+  <url><loc>https://www.thehydropass.com/blog/river-guides/wilson-river</loc></url>
   <url><loc>https://www.thehydropass.com/content-policy</loc></url>
   <url><loc>https://www.thehydropass.com/copyright</loc></url>
   <url><loc>https://www.thehydropass.com/early-access</loc></url>
+  <url><loc>https://www.thehydropass.com/list-your-water</loc></url>
+  <url><loc>https://www.thehydropass.com/list-your-water/start</loc></url>
   <url><loc>https://www.thehydropass.com/owner</loc></url>
   <url><loc>https://www.thehydropass.com/privacy</loc></url>
   <url><loc>https://www.thehydropass.com/privacy-choices</loc></url>
